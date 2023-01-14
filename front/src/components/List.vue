@@ -18,6 +18,3 @@ const { result } = useQuery(gql`
       }
     `)
 </script>
-
-rzu@open-net.ch
-dga@open-net.ch
